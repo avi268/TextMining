@@ -7,3 +7,4 @@ pdfminer==20191125
 scipy
 secure-smtplib
 gunicorn
+wsgi
